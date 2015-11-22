@@ -1,0 +1,1 @@
+A simple mobile application which locates the faculty members and colleagues of the user of the institute on the basis of basic text message service or GPS. It will mostly be developed in Java with a little bit of coding done in xml, and the databases being created and updated by the help of SQL.
